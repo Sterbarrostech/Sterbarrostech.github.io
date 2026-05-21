@@ -1,6 +1,6 @@
 # Stephanie Barros | Portfólio de Dados e BI
 
-Analista de Dados e Business Intelligence Jr. com experiência em Power BI, indicadores, governança de dados, relatórios executivos e apoio à tomada de decisão.
+Analista de Dados e Business Intelligence Jr. com experiência em Power BI, indicadores, governança de dados, relatórios executivos e apoio à tomada de decisão. Perfil em Construção Elaborando projetos de várias frentes. 
 
 ## Projetos
 
